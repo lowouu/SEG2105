@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "I am writing my name: dia
+=======
+cole says hi
+>>>>>>> 25077f8ddf5164f149b5572ee000b0869ac0133a
